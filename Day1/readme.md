@@ -1,0 +1,4 @@
+->sementic tag like section,footer,nav,article,aside,etc
+->anchor tag me ham link add kar sakte hein like https://www.google.com;
+->Internal link kaise kare ?
+Ans-> internal links ham first ek file banayenge suppose file.html and aur v ek file2.html,file3.html,file4.html,file6,html ye sab file hein and ham ab internal link karenge like file .html ke sath how? to jitna v baki file hein mere pass sab ko file.html me jaake anchor Tag ke sath links karna hein 
