@@ -1,0 +1,4 @@
+->Agar ham block element ko inline baanate hein taab haam margin and padding nahi dee sakte hein and jaab hum agar block ekement ko inline -block baana dete hein tab ham padding aur margin aram se laga sakte hein
+->Block element ko inline kaise bannate hein too ham property ka used kar ke bannate hein linke display:inline,inline-block.
+->block elements ka kuch example like div ,p,article,selection,select,footer,
+->inline elements ka kuch example like input tag,a tag,button,span etc
